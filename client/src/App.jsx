@@ -1,5 +1,5 @@
-import react, { component } from 'react';
-inport TodoList from './TodoList.jsx';
+import react from 'react';
+import TodoList from './TodoList.jsx';
 
 class App extends Component {
   constructor(props) {
